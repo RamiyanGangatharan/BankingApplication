@@ -1,0 +1,17 @@
+D:\Directory\Durham College\Semester 3\CLASSES\Object Oriented Programming II\C#\COSC_2100_05\BankingAppClone\bin\Debug\net6.0-windows\BankingAppClone.exe
+D:\Directory\Durham College\Semester 3\CLASSES\Object Oriented Programming II\C#\COSC_2100_05\BankingAppClone\bin\Debug\net6.0-windows\BankingAppClone.deps.json
+D:\Directory\Durham College\Semester 3\CLASSES\Object Oriented Programming II\C#\COSC_2100_05\BankingAppClone\bin\Debug\net6.0-windows\BankingAppClone.runtimeconfig.json
+D:\Directory\Durham College\Semester 3\CLASSES\Object Oriented Programming II\C#\COSC_2100_05\BankingAppClone\bin\Debug\net6.0-windows\BankingAppClone.dll
+D:\Directory\Durham College\Semester 3\CLASSES\Object Oriented Programming II\C#\COSC_2100_05\BankingAppClone\bin\Debug\net6.0-windows\BankingAppClone.pdb
+D:\Directory\Durham College\Semester 3\CLASSES\Object Oriented Programming II\C#\COSC_2100_05\BankingAppClone\obj\Debug\net6.0-windows\BankingAppClone.LoginWindow.resources
+D:\Directory\Durham College\Semester 3\CLASSES\Object Oriented Programming II\C#\COSC_2100_05\BankingAppClone\obj\Debug\net6.0-windows\BankingAppClone.csproj.GenerateResource.cache
+D:\Directory\Durham College\Semester 3\CLASSES\Object Oriented Programming II\C#\COSC_2100_05\BankingAppClone\obj\Debug\net6.0-windows\BankingAppClone.GeneratedMSBuildEditorConfig.editorconfig
+D:\Directory\Durham College\Semester 3\CLASSES\Object Oriented Programming II\C#\COSC_2100_05\BankingAppClone\obj\Debug\net6.0-windows\BankingAppClone.AssemblyInfoInputs.cache
+D:\Directory\Durham College\Semester 3\CLASSES\Object Oriented Programming II\C#\COSC_2100_05\BankingAppClone\obj\Debug\net6.0-windows\BankingAppClone.AssemblyInfo.cs
+D:\Directory\Durham College\Semester 3\CLASSES\Object Oriented Programming II\C#\COSC_2100_05\BankingAppClone\obj\Debug\net6.0-windows\BankingAppClone.csproj.CoreCompileInputs.cache
+D:\Directory\Durham College\Semester 3\CLASSES\Object Oriented Programming II\C#\COSC_2100_05\BankingAppClone\obj\Debug\net6.0-windows\BankingAppClone.dll
+D:\Directory\Durham College\Semester 3\CLASSES\Object Oriented Programming II\C#\COSC_2100_05\BankingAppClone\obj\Debug\net6.0-windows\refint\BankingAppClone.dll
+D:\Directory\Durham College\Semester 3\CLASSES\Object Oriented Programming II\C#\COSC_2100_05\BankingAppClone\obj\Debug\net6.0-windows\BankingAppClone.pdb
+D:\Directory\Durham College\Semester 3\CLASSES\Object Oriented Programming II\C#\COSC_2100_05\BankingAppClone\obj\Debug\net6.0-windows\BankingAppClone.genruntimeconfig.cache
+D:\Directory\Durham College\Semester 3\CLASSES\Object Oriented Programming II\C#\COSC_2100_05\BankingAppClone\obj\Debug\net6.0-windows\ref\BankingAppClone.dll
+D:\Directory\Durham College\Semester 3\CLASSES\Object Oriented Programming II\C#\COSC_2100_05\BankingAppClone\obj\Debug\net6.0-windows\BankingAppClone.Properties.Resources.resources
